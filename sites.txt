@@ -1,0 +1,10 @@
+□ websites list
+ - CityLab (https://www.citylab.com/)
+ - ULI (https://urbanland.uli.org/)
+ - Guardian Cities (https://www.theguardian.com/cities)
+ - CityMetric (https://www.citymetric.com/)
+ - Places Journal (https://placesjournal.org)
+
+□ considerations
+ - polite scraping
+ - well-focused searching
