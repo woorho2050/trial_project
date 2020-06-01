@@ -11,3 +11,7 @@
 - some elaborations needed
   + **_google_** translation
   + **_multi-page_** scraping
+
+## branch switching
+- create new branch (subject) on local
+- add / commit / merge / push
